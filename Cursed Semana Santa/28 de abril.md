@@ -1,6 +1,6 @@
 Día 1 del encierro. \
 Hoy he sumado 9 pomodoros y medio de tiempo productivo, lo cual se traduce, para los desentendidos, en unas 4 horas brutas de trabajo.
-Mi elección musical para la sesión de hoy:  [https://www.youtube.com/watch?v=gXdAIQKuP_k](URL) \
+Mi elección musical para la sesión de hoy:  [https://www.youtube.com/watch?v=gXdAIQKuP_k](URL) 
 Una persona poco experimentada en mi metodología de estudio podría asumir, equivocadamente, que mi día ha resultado fructífero. Nada más lejos de la realidad. He caído 3 horas por debajo de mi media habitual para un sábado. Con total libertad, escojo atribuir esta deficiencia a: \
 - El tiempo dedicado esta mañana a convertir mi lugar de trabajo en una zona habitable de nuevo (empezaba a hacerse difícil vislumbrar el parqué entre la ropa)
 - La actividad femenina por excelencia: Redacción de una lista de objetivos para la semana completamente fuera de mis capacidades físicas (Spoiler, incluye 10 horas de trabajo diario, como mínimo)
