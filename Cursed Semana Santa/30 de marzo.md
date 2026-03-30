@@ -7,5 +7,5 @@ Estoy perdiendo la cordura. Por lo visto, cierta fracción incremental de mi sub
 Mi banda sonora: [White girl ultra masculine playlist](https://www.youtube.com/watch?v=Stu6m4IrIY8) \
 \
 No me apetece resumir el día de hoy. Basta con decir que he hecho lo que debía. \
-<div="center">
+<"Céntrate, div">
 ![¿Y tú qué miras?](https://i.pinimg.com/736x/98/41/3e/98413e370251a87b27642dbf8ef35339.jpg)
