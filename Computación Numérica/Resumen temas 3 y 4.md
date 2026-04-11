@@ -237,7 +237,7 @@ $$y_i = \frac{b-a}{2}\,x_i + \frac{a+b}{2} \qquad \Rightarrow \qquad \int_a^b f(
 | 10 | 3.12 | Spline cúbico natural completo | 🟡 IMPORTANTE |
 | 11 | 3.14 | Recta de regresión (mínimos cuadrados) | 🟡 IMPORTANTE |
 | 12 | 3.15 | Linealización + mínimos cuadrados | 🟡 IMPORTANTE |
-| 13 | 4.9 | Simpson y trapecio compuestas | 🟡 IMPORTANTE |
+| 13 | 4.9 | Deducir trapecio compuesta | 🟡 IMPORTANTE |
 | 14 | 4.11 | Error compuestas — calcular nº subintervalos | 🟡 IMPORTANTE |
 | 15 | 3.16 | Ajuste curva no lineal → linealización | 🟠 ÚTIL |
 | 16 | 4.12 | Gauss-Legendre 2 puntos | 🟠 ÚTIL |
