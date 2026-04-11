@@ -232,8 +232,8 @@ $$y_i = \frac{b-a}{2}\,x_i + \frac{a+b}{2} \qquad \Rightarrow \qquad \int_a^b f(
 | 5 | 3.11 | Newton — datos en tabla | 🔴 ESENCIAL |
 | 6 | 3.8 | Cota de error de interpolación | 🔴 ESENCIAL |
 | 7 | 4.1 | Las 3 fórmulas de derivación + orden | 🔴 ESENCIAL |
-| 8 | 4.6 | Trapecio simple | 🔴 ESENCIAL |
-| 9 | 4.8 | Trapecio + Simpson en función concreta | 🔴 ESENCIAL |
+| 8 | 4.8 | Trapecio simple | 🔴 ESENCIAL |
+| 9 | 4.8 | Trapecio + Simpson en función concreta | 🔴 ESENCIAL | //esto ya lo cambiaré porque se lo inventó
 | 10 | 3.12 | Spline cúbico natural completo | 🟡 IMPORTANTE |
 | 11 | 3.14 | Recta de regresión (mínimos cuadrados) | 🟡 IMPORTANTE |
 | 12 | 3.15 | Linealización + mínimos cuadrados | 🟡 IMPORTANTE |
