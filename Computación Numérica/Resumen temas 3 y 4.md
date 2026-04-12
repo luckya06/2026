@@ -240,7 +240,7 @@ $$y_i = \frac{b-a}{2}\,x_i + \frac{a+b}{2} \qquad \Rightarrow \qquad \int_a^b f(
 | 13 | 4.9 | Deducir trapecio compuesta | 🟡 IMPORTANTE |
 | 14 | 4.11 | Error compuestas — calcular nº subintervalos | 🟡 IMPORTANTE |
 | 15 | 3.16 | Ajuste curva no lineal → linealización | 🟠 ÚTIL |
-| 16 | 4.12 | Gauss-Legendre 2 puntos | 🟠 ÚTIL |
+| 16 | 4.14 | Gauss-Legendre 2 puntos | 🟠 ÚTIL |
 | 17 | 3.18 | Mínimos cuadrados con base polinómica | 🟠 ÚTIL |
 | 18 | 3.20 | Aprox. continua con base $\{1,x^2\}$ | 🟠 ÚTIL |
 | 19 | 4.3 | Derivadas parciales numéricas | 🟢 SI SOBRA |
