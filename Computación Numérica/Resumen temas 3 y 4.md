@@ -229,7 +229,7 @@ $$y_i = \frac{b-a}{2}\,x_i + \frac{a+b}{2} \qquad \Rightarrow \qquad \int_a^b f(
 | 2 | 3.4 | Interpolación lineal en datos reales | 🔴 ESENCIAL |
 | 3 | 3.5 | Interpolación cuadrática | 🔴 ESENCIAL |
 | 4 | 3.7 | Newton — diferencias divididas, tabla log | 🔴 ESENCIAL |
-| 5 | 3.11 | Newton — datos en tabla | 🔴 ESENCIAL |
+| 5 | 3.11 | Spline natural cúbico | 🔴 ESENCIAL |
 | 6 | 3.8 | Cota de error de interpolación | 🔴 ESENCIAL |
 | 7 | 4.1 | Las 3 fórmulas de derivación + orden | 🔴 ESENCIAL |
 | 8 | 4.8 | Trapecio simple | 🔴 ESENCIAL |
