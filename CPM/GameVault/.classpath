@@ -6,5 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/GameVault_Util"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
